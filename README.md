@@ -1,3 +1,3 @@
 # Note app flutter
 
-Note app in flutter
+Note app in flutter.
